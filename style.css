@@ -71,3 +71,9 @@ button {
 button:hover {
     background: linear-gradient(to right, #ad58cf, #8764bf)
 }
+
+@media (max-width:48rem) {
+    .container {
+        width: 50%;
+    }
+}
