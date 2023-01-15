@@ -58,11 +58,12 @@ label {
     padding: 8px;
 }
 
-.input {
+.inputdt {
     padding: 8px;
     outline: none;
     border: 0;
-    background: #EEE;
+    background: rgb(229, 228, 228);
+    border-radius: 6px;
 }
 
 button {
