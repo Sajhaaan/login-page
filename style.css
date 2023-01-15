@@ -74,6 +74,6 @@ button:hover {
 
 @media (max-width:48rem) {
     .container {
-        width: 50%;
+        width: 70%;
     }
 }
